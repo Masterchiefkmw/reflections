@@ -2,3 +2,5 @@ When would you want to use a remote repository rather than keeping all your work
 It helps as you can access them from a diffrent computer and so can other people.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It does this so that nothing is left on your local that you need to access somewere else and if its left on the online gut you cant get it back localy so if a power cut or iternet went you could still modify your files
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork copies the file but gives credit automaticly and full access to the file, cloning alolows you to save the fiels but no credit is given and you will need to make your own copies on git hub to edit it fully.Branches are like files inside a repository that can store diffrent commits to another branch.
